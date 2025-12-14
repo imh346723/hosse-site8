@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+footer {
+    background-color: #0CAB59;
+    border: 10px double black;
+    padding-left: 10px;
+}
+.OOO {
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding-left: 200px;
+}
+main img {
+    border-radius: 30px;
+}
+header {
+    background-color: #00AF09;
+    border-top: 5px groove black;
+    border-bottom: 5px groove black;
+}
+.ooo {
+    padding: 0px 0px 0px 350px;
+}
+a {
+    font-size: 25px;
+}
+header, img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.lol {
+    border: 5px groove black;
+}
+.olo {
+    border: 5px groove black;
+}
+.net {
+    border: 5px groove black;
+}
+main p {
+    padding-left: 5px;
+}
